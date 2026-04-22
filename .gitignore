@@ -2,3 +2,4 @@
 .DS_Store
 .env
 mysql-project/mysql_data/
+postgres-project/pg_data/
